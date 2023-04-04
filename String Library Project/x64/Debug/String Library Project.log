@@ -1,0 +1,5 @@
+﻿  String Library Project.cpp
+C:\Users\User\Source\Repos\String Library Project\String Library Project\clsString.h(46,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\String Library Project\String Library Project\clsString.h(72,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\User\Source\Repos\String Library Project\String Library Project\clsString.h(225,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  String Library Project.vcxproj -> C:\Users\User\Source\Repos\String Library Project\x64\Debug\String Library Project.exe
